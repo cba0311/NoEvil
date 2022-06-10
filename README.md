@@ -1,4 +1,4 @@
-![](https://github.com/cba0311/No-Evil/blob/master/readme-banner-700.png)
+![](https://github.com/cba0311/No-Evil/blob/master/No-Evil_Thumbnail.png)
 
 # 🙊 🙉 🙈
 
