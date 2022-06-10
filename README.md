@@ -1,3 +1,3 @@
 # No-Evil
 
-## Small Javascript Project targeting DOM elements & using Event Listeners.
+## Small Javascript project targeting DOM elements & using Event Listeners.
