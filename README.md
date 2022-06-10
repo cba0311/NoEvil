@@ -1,5 +1,3 @@
-<pre>
-# 🙊 🙉 🙈                    No-Evil 
-</pre>
+# 🙊 🙉 🙈  <pre>                  No-Evil </pre>
 
 ## Small Javascript project targeting DOM elements & using Event Listeners.
