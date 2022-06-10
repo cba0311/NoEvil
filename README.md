@@ -1,4 +1,4 @@
-# 🙊 --> 🙉 --> 🙈
+# No-Evil 🙊 🙉 🙈
 
 ### Small Javascript project targeting 'DOM' elements & using 'click' Event Listeners.
 
