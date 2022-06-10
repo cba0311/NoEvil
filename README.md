@@ -1,3 +1,5 @@
-# No-Evil
+![](https://github.com/cba0311/No-Evil/blob/master/readme-banner-1080.png)
 
-## Small Javascript Project targeting DOM elements & using Event Listeners.
+# No-Evil 🙊 🙉 🙈
+
+## Small Javascript project targeting DOM elements & using Event Listeners.
