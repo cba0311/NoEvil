@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![](https://github.com/cba0311/NoEvil/blob/master/assets/NoEvil-banner.png)
+  ![](https://github.com/cba0311/NoEvil/blob/master/assets/NoEvil-banner.png#gh-light-mode-only)
   ![](https://github.com/cba0311/NoEvil/blob/master/assets/NoEvil-banner_dark.png#gh-dark-mode-only)
   
 </p>
