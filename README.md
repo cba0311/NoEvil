@@ -4,15 +4,7 @@
   ![](https://github.com/cba0311/NoEvil/blob/master/assets/NoEvil-banner_dark.png#gh-dark-mode-only)
   
 </div>
-<h1 align="center">
-  Small Javascript project targeting 'DOM' elements & using 'click' Event Listeners.
-</h1> 
 <div align="center">
-  <img src="https://github.com/cba0311/No-Evil/blob/master/assets/No-Evil.gif"<img>
-</div> 
-<div align="center">
-  
-  &nbsp;
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/cba0311/No-Evil?style=flat-square)  
 ![GitHub top language](https://img.shields.io/github/languages/top/cba0311/No-Evil?style=flat-square)
@@ -20,3 +12,12 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/cba0311/No-Evil?style=flat-square)
 
 </div>
+
+ &nbsp;
+ 
+<h1 align="center">
+  Small Javascript project targeting 'DOM' elements & using 'click' Event Listeners.
+</h1> 
+<div align="center">
+  <img src="https://github.com/cba0311/No-Evil/blob/master/assets/No-Evil.gif"<img>
+</div> 
