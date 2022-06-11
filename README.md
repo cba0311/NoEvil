@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/cba0311/No-Evil/blob/master/assets/updated_banner.png" />
+  <img src="https://github.com/cba0311/No-Evil/blob/master/assets/new_banner.png" />
 </p>
 <p align="center">
   Small Javascript project targeting 'DOM' elements & using 'click' Event Listeners.
