@@ -19,5 +19,5 @@
   Small Javascript project targeting 'DOM' elements & using 'click' Event Listeners.
 </h1> 
 <div align="center">
-  <img src="https://github.com/cba0311/No-Evil/blob/master/assets/No-Evil.gif"<img>
+  <img src="https://github.com/cba0311/No-Evil/blob/master/assets/NoEvil.gif"<img>
 </div> 
