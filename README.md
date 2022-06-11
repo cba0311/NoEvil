@@ -1,5 +1,5 @@
-#  ![](https://github.com/cba0311/No-Evil/blob/master/assets/banner_transparent.png) 
-Small Javascript project targeting 'DOM' elements & using 'click' Event Listeners.
+#  ![](https://github.com/cba0311/No-Evil/blob/master/assets/updated_banner.png) 
+# Small Javascript project targeting 'DOM' elements & using 'click' Event Listeners.
 
 ![](https://github.com/cba0311/No-Evil/blob/master/assets/No-Evil.gif)
 
