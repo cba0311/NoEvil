@@ -1,6 +1,10 @@
 <div align="center">
   
-  <h1>Small Javascript project targeting 'DOM' elements & using 'click' Event Listeners</h1>
+  <h1>
+    Small Javascript project targeting 'DOM' elements
+    </br>
+    and using 'click' Event Listeners
+  </h1>
   
   ![](https://github.com/cba0311/NoEvil/blob/master/assets/NoEvil-banner.png#gh-light-mode-only)
   ![](https://github.com/cba0311/NoEvil/blob/master/assets/NoEvil-banner_dark.png#gh-dark-mode-only)
